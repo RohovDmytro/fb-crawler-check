@@ -1,6 +1,6 @@
 {
   "name": "fb-crawler-check",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Check user agent to be a facebook crawler",
   "main": "index.js",
   "scripts": {
